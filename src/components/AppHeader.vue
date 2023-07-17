@@ -32,7 +32,7 @@ export default {
 
     <!-- Hero Section -->
     <section class="w-full my-0 mx-auto">
-        <img src="../assets/img/jumbotron.jpg" alt="hero-img" class="max-h-96 w-full object-cover object-top">
+        <img src="../data/images/sushi-jumbo.jpeg" alt="hero-img" class="max-h-96 w-full object-cover object-top">
     </section>
 </template>
 
@@ -42,5 +42,5 @@ export default {
 
 
 
-<router-link to="/">Go to Home</router-link>
-<router-link to="/about">Go to About</router-link>
+<!-- <router-link to="/">Go to Home</router-link>
+<router-link to="/about">Go to About</router-link> -->
