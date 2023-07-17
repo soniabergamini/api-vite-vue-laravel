@@ -28,7 +28,7 @@ export default {
                         <router-link to="/about">About</router-link>
                     </li>
                     <li>
-                        <router-link to="/restaurant">Restourant</router-link>
+                        <router-link to="/restaurant">Restaurant</router-link>
                     </li>
                     <li>
                         <router-link to="/contacts">Contacts</router-link>
