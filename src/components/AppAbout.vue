@@ -1,12 +1,14 @@
 <script>
 
 export default {
-    name: "AppHomepage"
+    name: "AppAbout"
 }
 
 </script>
 
-<template></template>
+<template>
+    <div>ABOUT</div>
+</template>
 
 <style lang="scss" scoped>
 @use '../variables.scss' as *;

@@ -1,12 +1,14 @@
 <script>
 
 export default {
-    name: "AppFooter"
+    name: "AppContacts"
 }
 
 </script>
 
-<template></template>
+<template>
+    <div>CONTATTI</div>
+</template>
 
 <style lang="scss" scoped>
 @use '../variables.scss' as *;

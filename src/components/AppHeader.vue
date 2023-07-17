@@ -22,7 +22,7 @@ export default {
             <div class="h-full">
                 <ul class="flex gap-[1em] text-[0.75rem] md:text-xs h-full items-center">
                     <li>
-                        <router-link to="/">Home</router-link>
+                        <router-link to="/homepage">Home</router-link>
                     </li>
                     <li>
                         <router-link to="/about">About</router-link>
@@ -31,7 +31,7 @@ export default {
                         <router-link to="/restaurant">Restourant</router-link>
                     </li>
                     <li>
-                        <router-link to="/about">Contacts</router-link>
+                        <router-link to="/contacts">Contacts</router-link>
                     </li>
                 </ul>
             </div>
