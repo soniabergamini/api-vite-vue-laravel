@@ -40,7 +40,7 @@ export default {
 
     <!-- Hero Section -->
     <section class="w-full my-0 mx-auto relative">
-        <img src="../data/images/sushi-jumbo.jpeg" alt="hero-img" class="max-h-96 w-full object-cover object-top">
+        <img src="../data/images/sushi-jumbo.jpeg" alt="hero-img" class="w-full object-cover object-top">
         <button
             class="border bg-transparent border-primary-orange text-primary-orange px-2 py-1 tracking-wider text-3xl absolute z-10 top-1/2 left-1/2 hover:bg-primary-orange hover:text-white translate-y-[-50%] translate-x-[-50%]">PRENOTA</button>
     </section>
