@@ -25,14 +25,15 @@ export default {
             piatti scateneranno una vera tempesta sensoriale che saprà appassionare il vostro gusto! <br> A Tokyo e in tutto
             il Giappone è tradizione l'arte della cucina ricca di eleganza e dettagli. Come pittori che dipingono su tele
             bianche, gli chef sapranno accostare le giuste sfumature di colore e sapori, per rendere unica questa
-        esperienza. Nel menu troverete anche la migliore birra giapponese Asahi, Sapporo e il profumato sakè. <br> Cosa
-        si mangia in un ristorante di sushi? Non dovranno mancare: gli antipasti, gli spaghetti di riso sapientemente
-        conditi, i ravioli di carne alla griglia, la tempura ed una sinfonia di sapori con Onighiri, Temaki, Uramaki e
-        carpacci di pesce fresco di prima qualità. <br> Tatsumi: tra i migliori ristoranti giapponesi Ferrara, è aperto
-        sia a pranzo che a cena. Potrete scegliere nel ricco menu sushi all you can eat Ferrara assaporando piatti
-        giapponesi, cinesi, thailandesi ed il sushi a Ferrara, preparati dallo chef con una accurata selezione di
-        ingredienti. Prenota un tavolo per provare la nostra cucina orientale oppure ordina sushi da asporto Ferrara.
-    </p>
-</section></template>
+            esperienza. Nel menu troverete anche la migliore birra giapponese Asahi, Sapporo e il profumato sakè. <br> Cosa
+            si mangia in un ristorante di sushi? Non dovranno mancare: gli antipasti, gli spaghetti di riso sapientemente
+            conditi, i ravioli di carne alla griglia, la tempura ed una sinfonia di sapori con Onighiri, Temaki, Uramaki e
+            carpacci di pesce fresco di prima qualità. <br> Tatsumi: tra i migliori ristoranti giapponesi Ferrara, è aperto
+            sia a pranzo che a cena. Potrete scegliere nel ricco menu sushi all you can eat Ferrara assaporando piatti
+            giapponesi, cinesi, thailandesi ed il sushi a Ferrara, preparati dallo chef con una accurata selezione di
+            ingredienti. Prenota un tavolo per provare la nostra cucina orientale oppure ordina sushi da asporto Ferrara.
+        </p>
+    </section>
+</template>
 
-<style lang="scss" scoped>@use '../variables.scss' as *;</style>
+<style lang="scss" scoped>@use '../style.scss' as *;</style>

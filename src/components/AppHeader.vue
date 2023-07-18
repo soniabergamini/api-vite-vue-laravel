@@ -22,16 +22,13 @@ export default {
             <div class="h-full">
                 <ul class="flex gap-[1em] text-[0.75rem] md:text-xs h-full items-center">
                     <li>
-                        <router-link to="/homepage">Home</router-link>
+                        <router-link class="text-xl" to="/homepage">Home</router-link>
                     </li>
                     <li>
-                        <router-link to="/about">About</router-link>
+                        <router-link class="text-xl" to="/menu">Menu</router-link>
                     </li>
                     <li>
-                        <router-link to="/restaurant">Restaurant</router-link>
-                    </li>
-                    <li>
-                        <router-link to="/contacts">Contacts</router-link>
+                        <router-link class="text-xl" to="/contacts">Contacts</router-link>
                     </li>
                 </ul>
             </div>
@@ -40,7 +37,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '../variables.scss' as *;
+@use '../style.scss' as *;
 </style>
 
 
